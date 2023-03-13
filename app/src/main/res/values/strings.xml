@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">draft</string>
+    <string name="type_name">type name</string>
+    <string name="jone">jone</string>
+    <string name="click_me">click me</string>
+    <string name="flag">флажок</string>
+    <string name="hi_friend">hi friend</string>
+</resources>
